@@ -4,3 +4,13 @@
     display: flex;
     gap: 10px; /* 要素ごとの間隔 */
 }
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
