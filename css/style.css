@@ -9,6 +9,10 @@ h1 {
     font-size: 1.5em;
 }
 
+h2 {
+    margin-top: 50px;
+}
+
 p {
     color: dimgray;
 }
