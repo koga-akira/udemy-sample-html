@@ -23,6 +23,12 @@ header {
     */
 }
 
-header, p, main, footer {
+header, main, footer {
     padding: 20px 30px;
+}
+
+div{
+    background-color: #fff;
+    padding: 10px 20px;
+    border-radius: 15px;
 }
