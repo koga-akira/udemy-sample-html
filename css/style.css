@@ -27,8 +27,17 @@ header, main, footer {
     padding: 20px 30px;
 }
 
-div{
+.card{
     background-color: #fff;
     padding: 10px 20px;
+    margin-bottom: 10px;
     border-radius: 15px;
+}
+
+.center{
+    text-align: center;
+}
+
+.text-small{
+    font-size: .8em;
 }
