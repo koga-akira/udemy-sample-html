@@ -16,7 +16,7 @@ nav h1 {
     font-weight: bold;
 }
 
-a:hover {
+a:not(.logo):hover {
     color: #646cff;
     text-decoration: underline;
 }
