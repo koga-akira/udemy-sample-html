@@ -1,5 +1,9 @@
+/* CSSをリセットする */
 @import url('normalize.css');
 
+body {
+    background-color: #eee;
+}
 h1 {
     text-align: center;
     font-size: 1.5em;
